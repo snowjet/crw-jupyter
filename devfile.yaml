@@ -1,6 +1,6 @@
 apiVersion: 1.0.0
 metadata:
-  name: crw-jupyter
+  generateName: crw-jupyter-
 projects:
   - name: crw-jupyter
     source:
